@@ -1,2 +1,7 @@
-# RandomStuff
-Idk i am just creating it ........ what does it does .... it gives a responsive answer for what you speak.... if anyone sees it just hit a try
+<blockquote>Module Required to install before start working -- </blockquote>
+
+pip install aiohttp
+pip install gtts 
+pip install playsound
+pip install SpeechRecognition
+pip install pyaudio
